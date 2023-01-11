@@ -1,1 +1,1 @@
-# Onion-architecture_Solid-Principles_Console-app_first_part
+Homework for Thursday (12.01.2023)
