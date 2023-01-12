@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{616DE53E-DD34-4C7D-B433-3C4E305F2B03}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Domain FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LibraryApp PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Repository/DAL/AppDbContext.cs">
+    <Files>
+      <File FileName="LibraryApp/Program.cs" Line="1" Column="1" />
+      <File FileName="Domain/Models/Library.cs" Line="10" Column="26" />
+      <File FileName="Domain/Models/Book.cs" Line="9" Column="36" />
+      <File FileName="Repository/DAL/AppDbContext.cs" Line="4" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework" expanded="True">
+            <Node name="Domain" expanded="True">
+              <Node name="Common" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="LibraryApp" expanded="True" />
+            <Node name="Repository" expanded="True" selected="True">
+              <Node name="DAL" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Repository FirstBuild="True" />
+</Properties>
