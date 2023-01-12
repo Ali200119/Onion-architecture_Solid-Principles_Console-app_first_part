@@ -7,5 +7,6 @@ namespace Domain.Models
 	{
 		public string Name { get; set; }
 		public string Author { get; set; }
-	}
+        public Library Library { get; set; }
+    }
 }
