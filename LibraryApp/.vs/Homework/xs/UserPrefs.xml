@@ -1,5 +1,6 @@
 ﻿<Properties StartupConfiguration="{616DE53E-DD34-4C7D-B433-3C4E305F2B03}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Service FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -11,9 +11,13 @@
   </PropertyGroup>
   <ItemGroup>
     <None Remove="DAL\" />
+    <None Remove="Repositories\" />
+    <None Remove="Repositories\Interfaces\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DAL\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Repositories\Interfaces\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Domain\Domain.csproj" />
